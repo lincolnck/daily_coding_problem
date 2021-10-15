@@ -46,4 +46,4 @@ def edit_distance(string1, string2):
 	print(count_zero(str1==str2))
 
 if __name__ == "__main__":
-	edit_distance("kitten","sitting")
+	edit_distance_roll("lincoln","elizabeth")

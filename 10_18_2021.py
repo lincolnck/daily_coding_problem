@@ -8,5 +8,5 @@ def zero_matrix_paths(matrix):
 	return(number)
 
 if __name__ == '__main__':
-	matrix = np.zeros((2,2))
+	matrix = np.zeros((5,5))
 	zero_matrix_paths(matrix)
